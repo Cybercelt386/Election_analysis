@@ -1,7 +1,9 @@
 # Election_analysis
-bootcamp
-## The purpose of This election audit is to determine the winner of the election and provide statistical information about the election process
-Process of determining  election results were as follows:
+
+ The purpose of This election audit is to determine the winner of the election and provide statistical information about the election process
+ 
+##Process of determining  election results were as follows:
+
 * Data was collected from excel spreadsheet eletion_results.csv and linked to our python file 
 * Each vote in file contained the candidate’s name and county that the vote was received.
 * Using the following code votes = candidate_votes.get(candidate_name) nested inside a for loop that went through each name listed in csv file this code will count the number of times that a candidate’s name appears on the spreadsheet and increase the value of "votes" by 1 
