@@ -12,4 +12,6 @@ a second for loop was used after this for loop had concluded this would count th
 The results were then placed into a readable user-friendly format and saved to and external .txt file 
 * This same process was repeated in order to determine the county with the highest voter participation.
 
+
+
 With this information we can determine the winner of the election the margin by which the winning candidate took the Election as well as what county had the biggest turnout with this information future candidates can shape their campaigns to increase the chances of success by focusing on counties with high voter participation and looking at the successful candidates to determine how to shape their own messages in the future.
