@@ -2,7 +2,7 @@
 
  The purpose of This election audit is to determine the winner of the election and provide statistical information about the election process
  
-##Process of determining  election results were as follows:
+ ## The process of determining the election results was as follows:
 
 * Data was collected from excel spreadsheet eletion_results.csv and linked to our python file 
 * Each vote in file contained the candidate’s name and county that the vote was received.
