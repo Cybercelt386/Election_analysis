@@ -8,6 +8,8 @@
     * Jefferson: 38,885 votes (10.5%)
     * Denver: 306,055 votes (82.8%)
     * Arapahoe: 24,801 votes (6.7%)
+    ![image](C:\Users\Holme\OneDrive\Desktop)
+
 * The county with the largest turnout was Denver with 82.8% of the total votes.
 * The number of votes won by each of the candidates is as follows:
     * Charles Casper Stockham: 85,213 votes (23.0%)
